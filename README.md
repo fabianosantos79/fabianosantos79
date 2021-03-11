@@ -1,10 +1,9 @@
-### Olá, seja bem vindo(a) ao meu GIT! 👋
+### Olá, seja bem vindo(a) ao meu GIT! :vulcan_salute:
 ## Meu nome é Fabiano
-- Morador de São Paulo/SP
-- Desenvolvedor frontend e backend
-- Webdesigner e Designer Gráfico
-- Fotógrafo
-- Videomaker
+- Morador de São Paulo/SP :house_with_garden:
+- Desenvolvedor frontend e backend :technologist:
+- Webdesigner e Designer Gráfico :desktop_computer: :black_nib:
+- Fotógrafo e Videomaker :camera: :clapper:
 ---
 
 ## Meus canais
