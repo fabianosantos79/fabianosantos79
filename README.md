@@ -8,11 +8,11 @@
 ---
 
 ## Meus canais
-<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"></a>
-<a href="https://www.instagram.com/fabianossantos/" target="_blank"><img height="30" width="40"  src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1615427516~hmac=3562b676a50764b6c8c0da941e10396b"></a>
-<a href="https://twitter.com/fabiano_ssantos" target="_blank"><img height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></a>
-<a href="https://www.behance.net/fabianossantos" target="_blank"><img height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg"></a>
-<a href="http://fabianofotos.com.br/" target="_blank"><img height="30" width="40"  src="https://www.flaticon.com/svg/vstatic/svg/883/883746.svg?token=exp=1615427693~hmac=23f190517e960d6fbdd8e9bce6102bd3"></a>
+<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Facebook_icon-icons.com_66805.png"></a>
+<a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="40"  src="https://image.flaticon.com/icons/png/128/2111/2111463.png"></a>
+<a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></a>
+<a href="https://www.behance.net/fabianossantos" target="_blank"><img width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg"></a>
+<a href="http://fabianofotos.com.br/" target="_blank"><img width="40"  src="https://www.flaticon.com/svg/vstatic/svg/883/883746.svg?token=exp=1615427693~hmac=23f190517e960d6fbdd8e9bce6102bd3"></a>
 ---
 
 ## Minhas habilidades
