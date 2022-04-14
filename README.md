@@ -22,6 +22,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/p
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianosantos79&repo=github-readme-stats)](https://github.com/fabianosantos79/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
