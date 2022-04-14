@@ -7,7 +7,7 @@
 ---
 
 ## Meus canais
-<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Facebook_icon-icons.com_66805.png"></a>    <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="40"  src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg"></a> 
+<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-facebook-social-media-justicon-lineal-color-justicon.png"></a>    <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="40"  src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-instagram-photo-and-video-sharing-social-networking-service-owned-by-facebook-logo-filled-tal-revivo.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="40"  src="https://img.icons8.com/doodle/344/twitter--v1.png"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="40"  src="https://img.icons8.com/doodle/344/behance--v1.png"></a> 
 ---
 
 ## Minhas habilidades
