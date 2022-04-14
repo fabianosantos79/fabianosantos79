@@ -6,6 +6,13 @@
 - Fotógrafo e Videomaker :camera: :clapper:
 ---
 
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianosantos79&show_icons=true&theme=outrun)](https://github.com/fabianosantos79/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianosantos79&langs_count=3)](https://github.com/fabianosantos79/github-readme-stats)
+
+
+
+
 ## Meus canais
 <a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-facebook-social-media-justicon-lineal-color-justicon.png"></a>    <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="40"  src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-instagram-photo-and-video-sharing-social-networking-service-owned-by-facebook-logo-filled-tal-revivo.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="40"  src="https://img.icons8.com/doodle/344/twitter--v1.png"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="40"  src="https://img.icons8.com/doodle/344/behance--v1.png"></a> 
 ---
@@ -16,10 +23,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordm
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <img width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" />
 ---
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianosantos79&show_icons=true&theme=outrun)](https://github.com/fabianosantos79/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianosantos79&langs_count=3)](https://github.com/fabianosantos79/github-readme-stats)
 
 
 
