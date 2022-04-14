@@ -19,7 +19,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/p
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianosantos79&layout=compact)](https://github.com/fabianosantos79/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianosantos79&show_icons=true&theme=discord_old_blurple)](https://github.com/fabianosantos79/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianosantos79&layout=compact)](https://github.com/fabianosantos79/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianosantos79&langs_count=3)](https://github.com/fabianosantos79/github-readme-stats)
+
 
 
 
