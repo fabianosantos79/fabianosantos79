@@ -4,7 +4,7 @@
 - Desenvolvedor frontend e backend :technologist:
 - Webdesigner e Designer Gráfico :desktop_computer: :black_nib:
 - Fotógrafo e Videomaker :camera: :clapper:
----
+
 
 
 ## Meus canais
