@@ -9,7 +9,7 @@
 
 
 ## Meus canais
-<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-facebook-social-media-justicon-lineal-color-justicon.png"></a>    <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="42"  src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-instagram-photo-and-video-sharing-social-networking-service-owned-by-facebook-logo-filled-tal-revivo.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="45"  src="https://img.icons8.com/doodle/344/twitter--v1.png"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="45"  src="https://img.icons8.com/doodle/344/behance--v1.png"></a> 
+<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="40" src="https://www.cnm.edu/depts/mco/marketing/images/facebook-logo.png/@@images/da657253-c9ec-4913-85a8-ddf44a7a6251.png"></a>    <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="42"  src="https://i0.wp.com/sguru.org/wp-content/uploads/2018/01/instagram_large.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="45"  src="https://logosmarcas.net/wp-content/uploads/2020/04/Twitter-Logo-2010%E2%80%932012.jpg"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="45"  src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png"></a> 
 
 
 
