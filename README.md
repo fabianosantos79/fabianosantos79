@@ -9,7 +9,7 @@
 
 
 ## Meus canais
-<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="50" src="https://cdn-0.imagensemoldes.com.br/wp-content/uploads/2020/04/Facebook-PNG.png"></a>    <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="50"  src="https://www.dlf.pt/dfpng/middlepng/101-1013343_logo-instagram-png-redondo-transparent-png.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="50" src="https://e7.pngegg.com/pngimages/1014/713/png-clipart-logo-advertising-information-icon-twitter-blue-company.png"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="50"  src="https://cdn-icons-png.flaticon.com/512/145/145799.png"></a> 
+<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="50" src="https://cdn-0.imagensemoldes.com.br/wp-content/uploads/2020/04/Facebook-PNG.png"></a>    <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="50"  src="https://w7.pngwing.com/pngs/648/943/png-transparent-instagram-logo-logo-instagram-computer-icons-camera-instagram-logo-text-trademark-magenta.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="50" src="https://e7.pngegg.com/pngimages/1014/713/png-clipart-logo-advertising-information-icon-twitter-blue-company.png"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="50"  src="https://cdn-icons-png.flaticon.com/512/145/145799.png"></a> 
 
 
 
