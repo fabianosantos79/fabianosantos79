@@ -9,7 +9,7 @@
 
 
 ## Meus canais
-<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="150" src="https://www.cnm.edu/depts/mco/marketing/images/facebook-logo.png/@@images/da657253-c9ec-4913-85a8-ddf44a7a6251.png"></a>    <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="150"  src="https://www.pngkey.com/png/detail/60-600842_logo-instagram-png-find-us-on-instagram-logo.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="150" src="https://w7.pngwing.com/pngs/474/303/png-transparent-logo-twitter-social-networking-service-graphics-twitter-blue-text-logo.png"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="150"  src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png"></a> 
+<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="50" src="https://cdn-0.imagensemoldes.com.br/wp-content/uploads/2020/04/Facebook-PNG.png"></a>    <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="50"  src="https://www.dlf.pt/dfpng/middlepng/101-1013343_logo-instagram-png-redondo-transparent-png.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="50" src="https://flyclipart.com/thumb2/music-the-low-anthem-634087.png"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="50"  src="https://cdn-icons-png.flaticon.com/512/145/145799.png"></a> 
 
 
 
