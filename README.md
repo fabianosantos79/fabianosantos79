@@ -13,8 +13,8 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianosantos79&show_icons=true&theme=outrun)](https://github.com/fabianosantos79/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianosantos79&langs_count=3)](https://github.com/fabianosantos79/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianosantos79&show_icons=true&theme=transparent)](https://github.com/fabianosantos79/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianosantos79&langs_count=5)](https://github.com/fabianosantos79/github-readme-stats)
 
 
 
