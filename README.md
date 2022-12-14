@@ -9,7 +9,7 @@
 
 
 ## Meus canais
-<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="70" src="https://cdn-icons-png.flaticon.com/512/725/725289.png"></a>    <a href="https://www.linkedin.com/in/fabiano-ssantos-25925a22/" target="_blank"><img width="70"  src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"></a>        <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="70"  src="https://cdn-icons-png.flaticon.com/512/1014/1014650.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="70" src="https://cdn-icons-png.flaticon.com/512/356/356025.png"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="70"  src="https://cdn-icons-png.flaticon.com/512/255/255308.png"></a> 
+<a href="https://web.facebook.com/fabiano.silvasantos.96/" target="_blank"><img width="70" src="https://cdn-icons-png.flaticon.com/512/725/725289.png"></a>    <a href="https://www.linkedin.com/in/fabiano-ssantos-25925a22/" target="_blank"><img width="70"  src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"></a>        <a href="https://www.instagram.com/fabianossantos/" target="_blank"><img width="70"  src="https://cdn-icons-png.flaticon.com/512/1313/1313715.png"></a>    <a href="https://twitter.com/fabiano_ssantos" target="_blank"><img width="70" src="https://cdn-icons-png.flaticon.com/512/356/356025.png"></a>    <a href="https://www.behance.net/fabianossantos" target="_blank"><img width="70"  src="https://cdn-icons-png.flaticon.com/512/255/255308.png"></a> 
 
 
 
