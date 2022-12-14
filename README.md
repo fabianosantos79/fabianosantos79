@@ -3,7 +3,7 @@
 - Morador de São Paulo/SP :house_with_garden:
 - Desenvolvedor RPA :robot:
 - Programador FullStack :technologist:
-- Webdesigner e Designer Gráfico :black_nib:
+- Webdesigner :black_nib:
 
 
 
