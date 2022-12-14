@@ -2,7 +2,7 @@
 ## Meu nome é Fabiano
 - Morador de São Paulo/SP :house_with_garden:
 - Desenvolvedor RPA :robot:
-- Programador FullStack :technologist:
+- Programador FullStack :desktop_computer:
 - Webdesigner :black_nib:
 
 
