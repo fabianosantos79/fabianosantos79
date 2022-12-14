@@ -13,8 +13,9 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianosantos79&show_icons=true&theme=transparent)](https://github.com/fabianosantos79/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianosantos79&show_icons=true)](https://github.com/fabianosantos79/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabianosantos79&repo=github-readme-stats)](https://github.com/fabianosantos79/github-readme-stats)
 
 
 
