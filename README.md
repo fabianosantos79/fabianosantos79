@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo(a) ao meu GIT! :vulcan_salute:
 ## Meu nome é Fabiano
 - Morador de São Paulo/SP :house_with_garden:
-- Programador Frontend :desktop_computer:
+- Desenvolvedor :desktop_computer:
 - Webdesigner :black_nib:
 
 
